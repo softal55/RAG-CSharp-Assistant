@@ -61,4 +61,4 @@ flutter_app/     # mobile app
 ## 👨‍💻 Author
 
 Sofiane Taleb  
-GitHub: https://github.com/softal55  
+Yacine Saidi
